@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic music player !</string>
+    <string name="greetings">Welcome !!!</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+</resources>
